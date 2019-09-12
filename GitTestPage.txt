@@ -4,7 +4,7 @@
   <li>Entertaintment</li>
   <li>School Education</li>
   <li>Social</li>
-  <li>Arts</li>
+  <li>Arts-Paint</li>
   <li>Music</li>
   <li>Space Exploration</li>
 </html>
