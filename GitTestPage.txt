@@ -6,5 +6,5 @@
   <li>Social</li>
   <li>Arts</li>
   <li>Music</li>
-  <li>Space</li>
+  <li>Space Exploration</li>
 </html>
