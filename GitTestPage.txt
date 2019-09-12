@@ -2,7 +2,7 @@
 <html>
   <li>Sports</li>
   <li>Entertaintment</li>
-  <li>School Education</li>
+  <li>School Education </li>
   <li>Social</li>
   <li>Arts-Dance</li>
   <li>Music</li>
