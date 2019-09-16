@@ -1,11 +1,10 @@
 <header>Git Page</header>
 <html>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Sports</li>
+  <li>Entertaintment</li>
+  <li>School Education </li>
+  <li>Social</li>
+  <li>Arts-Dance</li>
+  <li>Music</li>
+  <li>Space Exploration</li>
 </html>
